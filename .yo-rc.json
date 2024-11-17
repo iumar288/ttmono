@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "ttmono",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731860976674,
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "anyone",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress", "gatling"],
+    "websocket": null
+  }
+}
